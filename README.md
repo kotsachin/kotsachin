@@ -1,10 +1,8 @@
-### Hi there 👋
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kotsachin&show_icons=true&count_private=true&theme=flag-india)
 
 <!--
-**kotsachin/kotsachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**bwtakacy/bwtakacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
